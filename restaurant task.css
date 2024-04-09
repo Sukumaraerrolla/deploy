@@ -1,0 +1,49 @@
+nav{
+    color: aliceblue;
+    background: blanchedalmond;
+}
+h3{
+    color:olive;
+}
+h2{
+    color: red;
+}
+footer{
+    color: whitesmoke;
+    background-color: black;
+    
+
+}
+a {
+    color: rgb(9, 170, 25);
+}
+hr{
+    color: burlywood;
+}
+.fa {
+    padding: 2px;
+  text-align: center;
+    margin: 5px 2px;
+    font-size: 20px;
+    width: 20px;
+  }
+  .fa-facebook {
+    background: #184cbd;
+    color: white;
+  }
+  .fa-whatsapp {
+    background: rgb(46, 204, 46);
+    color: white;
+  }
+
+
+  .fa-instagram {
+    background: rgb(21, 85, 213);
+    color: white;
+  }
+  
+  .fa-google {
+    background: rgb(226, 19, 102);
+    color: white;
+  }
+
